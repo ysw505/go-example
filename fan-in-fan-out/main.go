@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gopherjs/gopherjs/compiler/natives/src/sync"
+	"sync"
 	"fmt"
 )
 
